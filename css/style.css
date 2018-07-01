@@ -98,6 +98,12 @@
 			font-weight: 700;
 		}
 	
+	    header h3
+	    {
+	        letter-spacing: -1px;
+	        font-weight: 600;
+	    }
+	    
 		header .byline
 		{
 			display: block;
