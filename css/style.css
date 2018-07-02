@@ -27,6 +27,16 @@
 		font-weight: bold;
 	}
 	
+	h2
+	{
+	    font-size: 1.75em;
+	}
+	
+	h3
+	{
+	    font-size: 1.5em;
+	}
+	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		{
 			color: inherit;
@@ -96,12 +106,6 @@
 			letter-spacing: -1px;
 			font-weight: 700;
 		}
-	
-	    header h3
-	    {
-	        letter-spacing: -1px;
-	        font-size: 200%;
-	    }
 	    
 		header .byline
 		{
