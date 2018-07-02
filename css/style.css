@@ -18,7 +18,7 @@
 	body,input,textarea,select
 	{
 		font-family: 'Oxygen', sans-serif;
-		font-size: 26pt;
+		font-size: 13pt;
 		line-height: 2em;
 	}
 
@@ -98,6 +98,13 @@
 			font-weight: 700;
 		}
 	
+	    header h3
+	    {
+	        letter-spacing: -1px;
+	        font-size: 30;
+	        font-weight: 600;
+	    }
+	    
 		header .byline
 		{
 			display: block;
