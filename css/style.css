@@ -98,6 +98,12 @@
 	{
 		margin-bottom: 1em;
 	}
+	
+	td, th, tr
+	{
+	    border: 2px solid black;
+	    padding: 15px;
+	}
 
 	header
 	{
