@@ -120,17 +120,13 @@
 		}
 	}
 	
-	div.main
+	#main
 	{
-    	
-    	div.container
-	    {
 	
-	        h3
+	    h3
 	        {
 	            text-align: center;
 	        }
-	    }
 	}
 		
 	footer
