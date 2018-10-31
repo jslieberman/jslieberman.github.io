@@ -120,12 +120,16 @@
 		}
 	}
 	
-	div.container
+	div.main
 	{
-	
-	    header h3
+    	
+    	div.container
 	    {
-	        text-align: center;
+	
+	        header h3
+	        {
+	            text-align: center;
+	        }
 	    }
 	}
 		
