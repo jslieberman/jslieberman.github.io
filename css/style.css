@@ -119,6 +119,15 @@
 			text-transform: uppercase;
 		}
 	}
+	
+	.container
+	{
+	
+	    header h3
+	    {
+	        text-align: center;
+	    }
+	}
 		
 	footer
 	{
